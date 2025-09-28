@@ -8,8 +8,7 @@ Software Engineer with experience in systems programming, full-stack development
 **Web:** React.js, Node.js, HTML, CSS  
 **Database:** MySQL, MongoDB  
 **Cloud:** AWS  
-**Systems:** Linux Administration  
-
+**Systems & Infrastructure:** Linux Administration, Network Administration, System Configuration
 ## Featured Projects
 - **Real-time WebSocket Library** - Custom C++ implementation for high-performance applications
 - **Network Interface Manager** - C++ library for automated network interface configuration on Linux systems
