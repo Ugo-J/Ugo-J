@@ -4,7 +4,7 @@
 Software Engineer with experience in systems programming, full-stack development, and cloud infrastructure. I build high-performance applications and solve complex technical problems.
 
 ## Technologies
-**Languages:** C++, Python, JavaScript  
+**Languages:** C++, Python, JavaScript, Bash
 **Web:** React.js, Node.js, HTML, CSS  
 **Database:** MySQL, MongoDB  
 **Cloud:** AWS  
