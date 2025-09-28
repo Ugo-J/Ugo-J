@@ -21,3 +21,7 @@ Software Engineer with experience in systems programming, full-stack development
 ---
 
 Currently open to new opportunities and interesting projects.
+
+## GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ugo-J&show_icons=true&theme=default)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ugo-J&layout=compact)
